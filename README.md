@@ -209,13 +209,13 @@ void lcd_display()
 
 ## Output screen shots of proteus  :
 
-<img width="846" height="741" alt="Screenshot 2025-09-17 093005" src="https://github.com/user-attachments/assets/6aa477f0-a372-4878-9084-8a055b811fba" />
+![Uploading 25.jpg…]()
 
  
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
  
-<img width="987" height="830" alt="image" src="https://github.com/user-attachments/assets/c03223ca-e344-4800-8488-e9b558a5cbe4" />
+![385327257-bed92c00-85ed-4ed1-8e56-8eeac34f5b17](https://github.com/user-attachments/assets/aa74b3d7-0456-4573-b602-ff30f07fffcb)
  
  
 ## Result :
